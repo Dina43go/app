@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "premier projet rest",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dina43go/app-rest1.git"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "nodejs",
+    "postman",
+    "mysql2"
+  ],
+  "author": "Luc Changodina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dina43go/app-rest1/issues"
+  },
+  "homepage": "https://github.com/Dina43go/app-rest1#readme"
+}
